@@ -14,11 +14,11 @@ PersonajeTablero::PersonajeTablero(int posx, int posy, int hp,
     this->sig = NULL;
 }
 
-void PersonajeTablero::poderEspecial(ListaPersonajes*lista, int jugador)[
+void PersonajeTablero::poderEspecial(ListaPersonajes*lista, int jugador){
 
-]
-
-PersonajeTablero::~PersonajeTablero()
-{
-    //dtor
 }
+
+//PersonajeTablero::~PersonajeTablero()
+//{
+//    //dtor
+//}

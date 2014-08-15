@@ -34,3 +34,19 @@
 	"ListaPersonajes.h"
 	"PersonajeTablero.h"
 
+1408140035 source:/home/turupawn/Downloads/Correccion/ListaPersonajes.cpp
+	"ListaPersonajes.h"
+	<iostream>
+	<fstream>
+
+1408140114 /home/turupawn/Downloads/Correccion/ListaPersonajes.h
+	"PersonajeTablero.h"
+
+1408140094 /home/turupawn/Downloads/Correccion/PersonajeTablero.h
+	"ListaPersonajes.h"
+
+1408140035 source:/home/turupawn/Downloads/Correccion/main.cpp
+	<iostream>
+	"ListaPersonajes.h"
+	"PersonajeTablero.h"
+

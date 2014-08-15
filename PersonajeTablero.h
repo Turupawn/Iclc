@@ -2,7 +2,7 @@
 #define PERSONAJETABLERO_H
 #include "ListaPersonajes.h"
 
-
+class ListaPersonajes;
 class PersonajeTablero
 {
     public:
