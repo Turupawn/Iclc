@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1408092304 source:/home/mint/Documents/Examen1/ListaPersonajes.cpp
+	"ListaPersonajes.h"
+	<iostream>
+	<fstream>
+
+1408091824 /home/mint/Documents/Examen1/ListaPersonajes.h
+	"PersonajeTablero.h"
+
+1408044586 /home/mint/Documents/Examen1/PersonajeTablero.h
+
+1408091707 source:/home/mint/Documents/Examen1/main.cpp
+	<iostream>
+	"ListaPersonajes.h"
+	"PersonajeTablero.h"
+
+1408092195 source:/home/mint/Documents/Examen1/PersonajeTablero.cpp
+	"PersonajeTablero.h"
+	<iostream>
+
+1408092304 source:/home/mint/Documents/Examen1 llevar/ListaPersonajes.cpp
+	"ListaPersonajes.h"
+	<iostream>
+	<fstream>
+
+1408107032 /home/mint/Documents/Examen1 llevar/ListaPersonajes.h
+	"PersonajeTablero.h"
+
+1408109544 /home/mint/Documents/Examen1 llevar/PersonajeTablero.h
+	"ListaPersonajes.h"
+
+1408092381 source:/home/mint/Documents/Examen1 llevar/main.cpp
+	<iostream>
+	"ListaPersonajes.h"
+	"PersonajeTablero.h"
+
